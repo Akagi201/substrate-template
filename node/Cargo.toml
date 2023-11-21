@@ -29,7 +29,7 @@ sc-telemetry = { version = "12.0.0" }
 sc-transaction-pool = { version = "25.0.0" }
 sc-transaction-pool-api = { version = "25.0.0" }
 sc-offchain = { version = "26.0.0" }
-sc-statement-store = { version = "7.0.0" }
+sc-statement-store = { version = "8.0.0" }
 sc-consensus-aura = { version = "0.31.0" }
 sp-consensus-aura = { version = "0.29.0" }
 sc-consensus = { version = "0.30.0" }

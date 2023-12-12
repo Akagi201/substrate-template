@@ -36,7 +36,7 @@ sc-consensus = { version = "0.30.0" }
 sc-consensus-grandpa = { version = "0.16.0" }
 sp-consensus-grandpa = { version = "10.0.0" }
 sc-client-api = { version = "25.0.0" }
-sp-runtime = { version = "28.0.0" }
+sp-runtime = { version = "30.0.1" }
 sp-io = { version = "27.0.0" }
 sp-timestamp = { version = "23.0.0" }
 sp-inherents = { version = "23.0.0" }

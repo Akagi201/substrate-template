@@ -42,7 +42,7 @@ sp-timestamp = { version = "23.0.0" }
 sp-inherents = { version = "23.0.0" }
 sp-keyring = { version = "28.0.0" }
 frame-system = { version = "25.0.0" }
-pallet-transaction-payment = { default-features = false, version = "25.0.0" }
+pallet-transaction-payment = { default-features = false, version = "28.0.0" }
 
 # These dependencies are used for the node template's RPCs
 jsonrpsee = { version = "0.16.2", features = ["server"] }
